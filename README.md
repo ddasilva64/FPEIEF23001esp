@@ -1,20 +1,20 @@
 ---
 description: >-
-  Este documento son mis notas personales del curso de fundamentos de Python. Agradezco al Platzi Team y especialmente al profesor Nicolás Molina este curso.
+  Este documento son mis notas personales del curso de introducción a la educación financiera. Agradezco al Platzi Team y especialmente a la profesora Liliana Zamacona este fantástico curso.
 ---
 
 # Resumen
 
 **¿Por qué debería aprender esto?**
 
-Para aprender Python desde cero. Elevar nuestras oportunidades con este lenguaje en gran crecimiento para áreas como data science, desarrollo backend, inteligencia artificial, IoT y más. Crear nuestros primeros programas utilizando variables, estructuras de datos, condicionales y ciclos.
+Conocer cómo funciona el sistema económico y nuestra participación en él, para empezar a construir unas finanzas personales sanas.
 
 **Desafío**
 
-* Guardar datos en listas y diccionarios para usarlos fácilmente.
-* Utilizar condicionales y ciclos para la lógica de nuestros programas.
-* Conocer distintos tipos de datos.
-* Aplicar diferentes conceptos de programación.
+* Descubrir cómo manejar nuestras finanzas de forma racional
+* Identificar las fuerzas que mueven la economía
+* Comprender cómo funciona el Banco Central y los ciclos económicos
+* Aprender sobre transacciones, mercado, crédito y deuda
 
 **Lo que necesitamos saber**
 
