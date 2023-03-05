@@ -11,7 +11,7 @@
 
 ![Gasto LATAM en Navidad](https://i.imgur.com/1eiXQ92.png)
 
-Actividad: 
+#### ***Actividad*** 
 
 * ***Inflación acumulada***
 
