@@ -60,12 +60,13 @@
 
 * ***Tomar el control***: Nadie cuidará nuestro dinero como nosotros
 * ***Causas de desequilibrios financieros***: 
-    * Pagar las deudas de nuestros familiares  
-    * Vivir con sentimiento de culpa por nuestras decisiones financieras  
-    * Ser responsables de la situación financiera de nuestra familia  
-    * Cumplir las expectativas de nuestra familia  
-    * No definir responsabilidades a tiempo (con respecto a terceros)  
-    * Avalar  
+    * **Familia**
+        * Pagar las deudas de nuestros familiares  
+        * Vivir con sentimiento de culpa por nuestras decisiones financieras  
+        * Ser responsables de la situación financiera de nuestra familia  
+        * Cumplir las expectativas de nuestra familia  
+        * No definir responsabilidades a tiempo (con respecto a terceros)  
+        * Avalar  
     * **Siniestro**: Es el acto o acontecimiento accidental, imprevisto, inesperado y súbito  
         * Problemas de salud
         * Pérdida del patrimonio
@@ -77,7 +78,7 @@
             * etc.
     * Amistades
         * Prestar dinero que no nos sobra  
-        * Gastos innecesarios por presión social  
+        * Gastos innecesarios por presión social: bodas por ejemplo
         * Influencias negativas  
         * Falta de inspiración  
     * Gobierno
@@ -101,7 +102,7 @@
       3. Escasez  
       4. Reciprocidad  
       5. Compromisos  
-      6. Prueba social  
+      6. Prueba social (por jrmplo comprar un iPhone para saber cómo va)
 
 ![Libros interesantes](https://i.imgur.com/wNB4hrB.png)
 

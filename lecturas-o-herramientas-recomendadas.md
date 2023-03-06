@@ -15,3 +15,14 @@
 * [Money for Nothing: Inside the Federal Reserve - Wikipedia -](https://en.wikipedia.org/wiki/Money_for_Nothing:_Inside_the_Federal_Reserve)
 
 * [Statista: el portal de estadísticas para datos de mercado, investigaciones de mercado y estudios de mercado](https://es.statista.com/)
+
+* [IMEC - Economía y Ciencias del Comportamiento aplicadas al diseño de estrategias de cambio de comportamiento](https://www.ecomportamiento.org/)
+
+* [Behavioral Podcast — Instituto Mexicano de Economía del Comportamiento](https://www.ecomportamiento.org/behavioral-podcast)
+
+
+
+
+
+
+
