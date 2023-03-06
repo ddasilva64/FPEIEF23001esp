@@ -51,8 +51,8 @@
     * Fuente: [epdata.es](https://www.epdata.es/)
     * Data sources: INE (datos en formato CSV disponibles en proyectos)
     * Estudio: Variación interanual del IPC en España
-    * Resultado: Si se confunde IPC con inflación, se puede imaginar que todo va bien. Que todo vaya bien, induce a seguir consumiendo y solicitando crédito, pero el BC (BCE, en el caso de España), solo puede subir los tipos de interés, si sube la inflación y si sube la inflación, aunque baje el IPC, se suben los tipos  
-    Imaginemos que estamos obesos. Ahora llamemos inflación a la obesidad. También llamemos IPC al ritmo en que aumentamos Kg. entonces si aumentamos de peso, aunque el ritmo de crecimiento sea menor, NO ESTAMOS ADELGAZANDO!. En España, nos dicen que estamos adelgazando cuando estamos engordando menos Kg. A mí me parece una manipulación MUY CLARA!
+    * Resultado: Si se confunde IPC con inflación, se puede imaginar que todo va bien. Que todo vaya bien, induce a seguir consumiendo y solicitando crédito, pero el BC (BCE, en el caso de España), solo puede subir los tipos de interés (en esta situación). Es decir, si sube la inflación, aunque baje el IPC, se suben los tipos  
+    Imaginemos que estamos obesos. Ahora llamemos inflación a la obesidad. También llamemos IPC al ritmo en que aumentamos de Kg. de grasa, entonces si aumentamos de peso, aunque el ritmo de crecimiento sea menor, NO ESTAMOS ADELGAZANDO!. En España, nos dicen que estamos adelgazando cuando estamos engordando menos Kg.  
 
 ![Variación interanual del IPC en España](https://i.imgur.com/FjvfRcY.jpg)
 
